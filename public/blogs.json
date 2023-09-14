@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "blog_cover_img": "https://i.ibb.co/LpGJcxm/1.jpg",
+        "author_img": "https://i.ibb.co/FsH8NvH/boy1.png",
+        "author_name": "John Doe",
+        "posted_date": "September 14, 2023",
+        "title": "The Art of Photography: Capturing the Perfect Shot",
+        "read_time": 8,
+        "hashtags": ["photography", "art", "tips"]
+      },
+      {
+        "id": "2",
+        "blog_cover_img": "https://i.ibb.co/RN1zSLg/2.png",
+        "author_img": "https://i.ibb.co/X2tDg5G/boy2.jpg",
+        "author_name": "Jane Smith",
+        "posted_date": "September 12, 2023",
+        "title": "Exploring National Parks: A Nature Lover's Guide",
+        "read_time": 10,
+        "hashtags": ["travel", "nature", "adventure"]
+      },
+      {
+        "id": "3",
+        "blog_cover_img": "https://i.ibb.co/k6gY3pR/3.png",
+        "author_img": "https://i.ibb.co/m67wHSc/girl1.jpg",
+        "author_name": "Alice Johnson",
+        "posted_date": "September 10, 2023",
+        "title": "Healthy Eating: The Benefits of a Plant-Based Diet",
+        "read_time": 6,
+        "hashtags": ["nutrition", "health", "plantbased"]
+      },
+      {
+        "id": "4",
+        "blog_cover_img": "https://i.ibb.co/bs7BnM7/4.jpg",
+        "author_img": "https://i.ibb.co/3pTGZsv/girl2.jpg",
+        "author_name": "David Williams",
+        "posted_date": "September 8, 2023",
+        "title": "Mastering Productivity: Tips for Getting More Done",
+        "read_time": 7,
+        "hashtags": ["productivity", "tips", "work"]
+      }  
+      
+]
